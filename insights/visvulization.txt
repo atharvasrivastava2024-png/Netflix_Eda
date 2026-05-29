@@ -1,0 +1,24 @@
+ Data Visualization and Insight
+1 Movies vs TV Shows
+2 Content Growth Over Time
+3 Top Countries
+4 Country-wise Content Type Analysis
+5 Genre Analysis
+6 Genre-wise Content Type Analysis
+7 Content Age Distribution
+8 Release Year Distribution
+9 Director Analysis
+10 Movie Duration vs Cast Count
+11 Correlation Analysis
+12 Genre Count vs Cast Count
+
+Key Findings
+
+• Movies dominate Netflix's catalog.
+• Content additions increased significantly after 2015.
+• The United States and India are major content contributors.
+• Drama and International Movies are among the most common genres.
+• Most content is relatively recent.
+• Movie duration shows little relationship with cast size.
+• Multi-genre titles tend to have slightly larger casts.
+• Most numerical features exhibit weak correlations.

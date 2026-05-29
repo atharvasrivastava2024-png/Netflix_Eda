@@ -1,0 +1,28 @@
+1. Remove duplicates
+2. Handle missing values
+3. Fix data types
+4. Handle unrealistic/inconsistent values
+5. Feature engineering
+
+
+intital missing percentages
+"
+director        30.679337
+cast             9.220496
+country          6.510851
+date_added       0.128419
+rating           0.089893
+show_id          0.000000
+type             0.000000
+title            0.000000
+release_year     0.000000
+duration         0.000000
+listed_in        0.000000
+description      0.000000
+dtype: float64
+
+the director cast and country contains majoritry of the missing values but we cannot handel them so its better to write unknown in them
+
+date added and rating had very negligible amount of  missing values so we dropped the rows
+
+corrected date added datatype 
